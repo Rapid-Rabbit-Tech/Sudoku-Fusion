@@ -1,0 +1,40 @@
+Privacy Statement
+
+At Sudoku Fusion, we prioritize the privacy of our users and are dedicated to protecting their personal information. This Privacy Statement outlines how we collect, utilize, and safeguard data when you use our app. By using our app, you consent to the practices described in this statement.
+
+Information We Collect
+When you use our app, we may collect the following information:
+
+a. Device ID: We collect your device ID to facilitate various app functionalities and user identification.
+
+b. Daily Competition Records: We collect records of your participation in daily competitions, including scores, rankings, and other pertinent data. These records may be associated with your device ID.
+
+c. Play Record Data: If permitted by the user, we may collect play record data from other game modes within the app. This includes information such as game progress, achievements, and in-game statistics.
+
+Use of Collected Information
+We collect and utilize the information mentioned above for the following purposes:
+
+a. Daily Competitions: Device IDs and competition records are used to track your participation, calculate scores, and determine rankings in daily competitions.
+
+b. App Improvement: We analyze competition data and play record data to enhance our app's performance, optimize user experience, and identify areas for improvement.
+
+c. Open Source Initiative: We may choose to open source the competition records and play record data, ensuring that all personally identifiable information remains hidden. This allows the public to access the data without compromising your privacy.
+
+Data Security
+We employ appropriate measures to protect your information and maintain its confidentiality. Physical, technical, and administrative safeguards are implemented to prevent unauthorized access, disclosure, alteration, or destruction of data.
+
+Data Retention
+We retain the collected data, including device IDs, competition records, and play record data, for as long as necessary to fulfill the purposes outlined in this Privacy Statement. Once the data is no longer required, we securely delete or anonymize it.
+
+Data Sharing
+We do not share personally identifiable information with third parties. However, as mentioned earlier, we may choose to open source the competition records and play record data while ensuring the exclusion of any personally identifiable information.
+
+Changes to this Privacy Statement
+We reserve the right to update or modify this Privacy Statement periodically. Any changes will become effective upon posting the revised Privacy Statement within the app. We encourage you to review this statement regularly to stay informed about our data collection, usage, and protection practices.
+
+Contact Us
+If you have any questions, concerns, or requests regarding your privacy or this Privacy Statement, please contact us at rapid.rabbit.tech@gmail.com.
+
+By using our app, you acknowledge that you have read and understood this Privacy Statement and agree to the collection, use, and storage of your data as described herein.
+
+Last updated: 12/01/2024
